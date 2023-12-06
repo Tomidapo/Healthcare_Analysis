@@ -42,11 +42,11 @@ By incorporating modeling techniques into the HealthCare Insights EDA project, t
 
 Visualization plays a crucial role in conveying complex healthcare data in a clear and interpretable manner. In the HealthCare Insights EDA project, effective visualizations can enhance the communication of insights and facilitate a deeper understanding of patterns and trends. Here are potential visualization strategies:
 
-Disease Distribution
-Age and Gender Distribution
-Outcome by Blood Pressure and Cholesterol
-Heatmap representing the co-occurrence of symptoms across diseases.
-Heatmap showing correlations between symptoms, patient demographics, and disease outcomes.
+- Disease Distribution
+- Age and Gender Distribution
+- Outcome by Blood Pressure and Cholesterol
+- Heatmap representing the co-occurrence of symptoms across diseases.
+- Heatmap showing correlations between symptoms, patient demographics, and disease outcomes.
 
 
 ## Analysis
@@ -55,11 +55,11 @@ Heatmap showing correlations between symptoms, patient demographics, and disease
 
 The analysis phase of the HealthCare Insights EDA project involves extracting meaningful insights from the explored dataset and visualizations. Here are key analysis components:
 
-Disease Distribution Analysis
-Symptom Relationships
-Demographic Exploration
-Correlation Analysis
-Blood Pressure and Cholesterol Impact
+- Disease Distribution Analysis
+- Symptom Relationships
+- Demographic Exploration
+- Correlation Analysis
+- Blood Pressure and Cholesterol Impact
 
 
 ## Dashboard View
@@ -69,14 +69,17 @@ Blood Pressure and Cholesterol Impact
 
 ## Recommendations for Improved Healthcare:
 
-1. **Futher Research:**
-- Conduct further research to validate and extend the insights gained from this EDA project. This may involve more in-depth studies on specific diseases or collaborative research with healthcare professionals.
 
- 2. **Product Focus:**
-- _Office Supplies:_ Invest in marketing Binders, Paper, and Storage products. Create bundled offers to boost sales.
-- _Furniture:_ Introduce new designs for Chairs and Tables. Collaborate with local artisans for unique, region-specific furniture pieces.
-- _Technology:_ Promote Accessories and Phones aggressively. Offer discounts on Accessories with Phone purchases.
+### Further Research:
 
+_Conduct further research to validate and extend the insights gained from this EDA project. This may involve more in-depth studies on specific diseases or collaborative research with healthcare professionals._
+
+
+### Data Collection Mode
+
+_Consider enhancing data collection efforts to include additional variables or more granular details that could provide a more comprehensive understanding of healthcare dynamics.
+
+  
 3. **Shipping Optimization:**
 Optimize Standard Class shipping for cost-effective delivery, encouraging more customers to choose this option.
 Enhance Same Day and First Class services with tracking features, ensuring reliability and customer satisfaction.
