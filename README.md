@@ -72,13 +72,12 @@ The analysis phase of the HealthCare Insights EDA project involves extracting me
 
 ### Further Research:
 
-_Conduct further research to validate and extend the insights gained from this EDA project. This may involve more in-depth studies on specific diseases or collaborative research with healthcare professionals._
+Conduct further research to validate and extend the insights gained from this EDA project. This may involve more in-depth studies on specific diseases or collaborative research with healthcare professionals._
 
 
 ### Data Collection Mode
 
-_Consider enhancing data collection efforts to include additional variables or more granular details that could provide a more comprehensive understanding of healthcare dynamics.
-
+Consider enhancing data collection efforts to include additional variables or more granular details that could provide a more comprehensive understanding of healthcare dynamics.
 
 ### Monitoring System
 
