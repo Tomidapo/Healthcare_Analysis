@@ -79,24 +79,20 @@ _Conduct further research to validate and extend the insights gained from this E
 
 _Consider enhancing data collection efforts to include additional variables or more granular details that could provide a more comprehensive understanding of healthcare dynamics.
 
-  
-3. **Shipping Optimization:**
-Optimize Standard Class shipping for cost-effective delivery, encouraging more customers to choose this option.
-Enhance Same Day and First Class services with tracking features, ensuring reliability and customer satisfaction.
 
-4. **Monthly Campaigns:**
-Run special promotions during low months like February to boost sales. Consider themed campaigns tied to holidays or events.
+### Monitoring System
 
-5. **Customer Engagement:**
-Implement a customer feedback system. Reward customers for feedback, providing insights for continuous improvement.
-Launch a customer referral program. Offer discounts for successful referrals, expanding your customer base.
+Consider enhancing data collection efforts to include additional variables or more granular details that could provide a more comprehensive understanding of healthcare dynamics.
 
-6. **Inventory Management:**
-Implement an inventory tracking system to avoid overstocking or shortages. Utilize data insights to predict demand and stock accordingly.
+### Educational Initiatives 
 
+Launch educational initiatives to disseminate findings among healthcare professionals, fostering a collaborative approach to healthcare decision-making.
+
+### Targeted Interventions 
+Develop targeted interventions based on identified influencing factors, aiming to improve patient care and treatment outcomes
 
 ### Thank You 
-For more info you can [Email me](muideenadeakanni@gmail.com)
+For more info you can [Email me](tomidapo03@gmail.com)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/princeadeakanni)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muideenadeakanni)  
 
