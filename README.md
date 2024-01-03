@@ -2,7 +2,7 @@
 Healthcare Analysis using Tableau.
 
 
-![Data Analyst](https://github.com/princeadeakanni/Express_Logistics/blob/main/Intro%20Image.PNG)
+![Data Analyst](https://github.com/Tomidapo/Healthcare_Analysis/blob/main/doctors-teamwork-portrait-hospital-management-checklist-healthcare-analysis-patient-pov-nurses-medical-professional-269396311.jpg)
 
 ## Introduction
 The HealthCare Insights analysis project endeavors to explore a dataset encompassing diseases, symptoms, patient demographics, and outcomes. By delving into this comprehensive dataset, the goal is to uncover meaningful relationships between symptoms and diseases, understand patient characteristics that may influence outcomes, and identify patterns that can inform strategic healthcare decisions. Through the lens of data analysis, HealthCare Insights seeks to contribute to the advancement of medical knowledge, improve patient care, and support the ongoing evolution of healthcare practices.
@@ -24,7 +24,7 @@ HealthCare Insights recognizes the need for a focused Exploratory Data Analysis 
 - Categorical Analysis
 - Dashboard Development
 
-![Data Analyst](https://github.com/princeadeakanni/Express_Logistics/blob/main/Express%20Logistics%20Image.jpg)
+![Data Analyst](https://github.com/Tomidapo/Healthcare_Analysis/blob/main/doctor-women-checking-blood-pressure-female-patient-close-up-cardiology-medicine-health-care-concept-woman-126777497.jpg)
 
 ## Modelling
 
@@ -48,7 +48,7 @@ Visualization plays a crucial role in conveying complex healthcare data in a cle
 
 ## Analysis
 
-![Data Analyst](https://github.com/princeadeakanni/Express_Logistics/blob/main/Decomposition%20Tree%20Analysis.PNG)
+![Data Analyst](https://github.com/Tomidapo/Healthcare_Analysis/blob/main/Dashboard%202.pdf)
 
 The analysis phase of the HealthCare Insights EDA project involves extracting meaningful insights from the explored dataset and visualizations. Here are key analysis components:
 
