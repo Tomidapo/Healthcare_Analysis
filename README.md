@@ -48,7 +48,7 @@ Visualization plays a crucial role in conveying complex healthcare data in a cle
 
 ## Analysis
 
-![Data Analyst](https://github.com/Tomidapo/Healthcare_Analysis/blob/main/Dashboard%202.pdf)
+![Data Analyst](https://github.com/Tomidapo/Healthcare_Analysis/blob/main/IMG_9038.jpg)
 
 The analysis phase of the HealthCare Insights EDA project involves extracting meaningful insights from the explored dataset and visualizations. Here are key analysis components:
 
@@ -61,7 +61,7 @@ The analysis phase of the HealthCare Insights EDA project involves extracting me
 
 ## Dashboard View
 
-![Data Analyst](https://github.com/princeadeakanni/Express_Logistics/blob/main/Main%20Dashboard.PNG)
+![Data Analyst](https://github.com/Tomidapo/Healthcare_Analysis/blob/main/IMG_9039.jpg)
 
 
 ## Recommendations for Improved Healthcare:
