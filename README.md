@@ -2,9 +2,6 @@
 Healthcare Analysis using Tableau.
 
 
-
-
-# Express Logistics Analysis
 ![Data Analyst](https://github.com/princeadeakanni/Express_Logistics/blob/main/Intro%20Image.PNG)
 
 ## Introduction
